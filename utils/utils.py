@@ -1,5 +1,5 @@
 # ##########################
-# FILE:ex12_utils.py
+# FILE:utils.py
 # WRITER:Ofer Ezrachi,oferezr, 209350586
 # WRITER:Bar Cavia, barcavia123, 316032622
 # EXERCISE: intro2cs1 ex12 2021

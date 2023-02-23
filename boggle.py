@@ -1,13 +1,5 @@
-# ##########################
-# FILE:boggle.py
-# WRITER:Ofer Ezrachi,oferezr, 209350586
-# WRITER:Bar Cavia, barcavia123, 316032622
-# EXERCISE: intro2cs1 ex12 2021
-# DESCRIPTION: The boggle game
-# ##########################
-
 from boggleGui import *
-from bogglemodel import *
+from models.bogglemodel import *
 
 
 class Boggle:

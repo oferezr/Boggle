@@ -1,13 +1,5 @@
-# ##########################
-# FILE:boggleGui.py
-# WRITER:Ofer Ezrachi,oferezr, 209350586
-# WRITER:Bar Cavia, barcavia123, 316032622
-# EXERCISE: intro2cs1 ex12 2021
-# DESCRIPTION: GUI for the boggle model
-# ##########################
-
 import tkinter as tk
-from bogglemodel import *
+from models.bogglemodel import *
 
 TIME_LEFT = "Time left: "
 SUBMIT = "Submit"
