@@ -32,5 +32,5 @@ class Boggle:
 
 
 if __name__ == '__main__':
-    game = Boggle("boggle_dict.txt")
+    game = Boggle("assets/boggle_dict.txt")
     game.run()

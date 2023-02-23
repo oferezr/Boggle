@@ -92,9 +92,9 @@ class BoggleGUI:
         self.__sub_start_message = tk.Label(self.__starting_frame,
                                             text=START_GAME,
                                             **SUB_STARTING_LABEL_STYLE)
-        self.__start_button = tk.PhotoImage(file="play_game.png").subsample(5)
+        self.__start_button = tk.PhotoImage(file="assets/play_game.png").subsample(5)
         self.__restrat_button = tk.PhotoImage(
-            file="restart_game.png").subsample(6)
+            file="assets/restart_game.png").subsample(6)
         self.__start_game = tk.Button(self.__starting_frame,
                                       image=self.__start_button,
                                       command=self.start_game)
